@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 Some highlights about Me </h3>
 
 -  &nbsp; Worked has a mentor for the team Kainatomous in Smart India Hackathon'20 for frontend development in React.
--  &nbsp; Winner of Smart India Hackathon'20 as a mentor for team Kainatomous: AK15/Knowledge Management System through &nbsp; BlockChain.Given by Airport Authority of India.
+-  &nbsp; Winner of Smart India Hackathon'20 as a mentor for team Kainatomous: AK15/Knowledge Management System through 
+          BlockChain.Given by Airport Authority of India.
 -  &nbsp; Winner of Smart India Hackathon'19 Prize(Rs.75000) : High Impact Low Cost Well Being Solution (Rural HealthCare Portal).Given By &nbsp; Flucon Pvt.Ltd
 -  &nbsp; MERN Enthusiatic.
 -  &nbsp; Learning more about Javascript and its framework like ReactJS,NodeJS etc.
