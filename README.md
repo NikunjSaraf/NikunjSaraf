@@ -1,4 +1,6 @@
 <h2> Hey there! I'm Nikhunj.</h2>
+<img src="https://visitor-badge.glitch.me/badge?page_id=NikunjSaraf.NikunjSaraf"/>
+
 
 <h3> 👨🏻‍💻 Some highlights about Me </h3>
 
@@ -20,7 +22,6 @@
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikunjSaraf&show_icons=true)](https://github.com/NikunjSaraf)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
