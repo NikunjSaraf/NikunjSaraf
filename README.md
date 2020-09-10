@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.nikunjsaraf.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/?style=flat-square&logo=google-chrome">www.nikunjsaraf.github.io/Portfolio/</a>
-<a href="https://www.linkedin.com/in/nikunj1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nikunj1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikunj%20Saraf-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nikunj.codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nik.saraf1234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
