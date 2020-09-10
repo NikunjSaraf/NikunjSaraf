@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Nikhunj.</h2>
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <h3> 👨🏻‍💻 Some highlights about Me </h3>
 
@@ -20,12 +19,14 @@
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikunjSaraf&show_icons=true)](https://github.com/NikunjSaraf)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.nikunjsaraf.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/?style=flat-square&logo=google-chrome">www.nikunjsaraf.github.io/Portfolio/</a>
+<a href="https://www.nikunjsaraf.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nikunjsaraf.github.io/Portfolio/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nikunj1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikunj%20Saraf-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nikunj.codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nik.saraf1234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/nikunj.codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nikunj.codes-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:nik.saraf1234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nik.saraf1234@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
